@@ -5,7 +5,7 @@ Search Jisho.org from the Python shell
 Written in python 3.8  
 
 
-**Dependencies:**   
+**External Dependencies:**   
 requests  
 
 
