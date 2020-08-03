@@ -2,7 +2,7 @@
 Search Jisho.org from the Python shell
 
 
-Written in python 3.8  
+Written in Python 3.8  
 
 
 **External Dependencies:**   
