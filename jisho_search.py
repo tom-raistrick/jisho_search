@@ -46,8 +46,6 @@ while True:
     search_input = input("Enter search term: ")
     if search_input == '-e' or search_input == '-j':
         language = language_function(search_input)
-    elif search_input == '-exit':
-        exit()
     else:
         search_json, result_limit = search_function(language, search_input)
         if not search_json.json()['data']:
