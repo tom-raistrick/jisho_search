@@ -15,6 +15,6 @@ requests
 
 
 **Commands**
-Commands are entered from the search prompt.  
+Commands are entered from the search prompt.
 '`-e`' - Set typed language to English (default)  
 '`-j`' - Set typed language to Japanese
