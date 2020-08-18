@@ -1,5 +1,5 @@
 # jisho_search
-Search Jisho.org from the Python shell
+Search Jisho.org from the Python shell.
 
 
 Written in Python 3.8  
